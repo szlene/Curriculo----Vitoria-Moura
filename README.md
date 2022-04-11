@@ -1,2 +1,2 @@
 # Curriculo----Vitoria-Moura
-:bulb: Curriculo completo de Vitoria Moura Tavares
+Curriculo completo de Vitoria Moura Tavares
